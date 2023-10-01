@@ -1,5 +1,3 @@
-## 1
-
 ## Programming I
 
 ## Worksheet I
@@ -54,6 +52,7 @@ from the keyboard.
 12. Write a program that displays the multiplication table in a proper output format.
 
 13. Write separate programs that generate each of the following patterns.
+![image](https://github.com/cyberkmtm/prog1_sheet1/assets/101600694/c5c629dd-efbe-4062-b536-4498a4c248f2)
 
-![image](https://github.com/cyberkmtm/prog1_sheet1/assets/101600694/02e0ca7f-fe05-4099-9cdd-1a8bb1af67b3)
+
 
